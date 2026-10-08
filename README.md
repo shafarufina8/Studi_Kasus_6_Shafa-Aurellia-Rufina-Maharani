@@ -17,9 +17,9 @@ Kegunaan Fungsi Program
 
 6. main(): kontrol program yang ada di menu utama (bisa pilih menu 1, 2, atau 3).
 
-7. json.load(): untuk membaca file nilai_mahasiswa.json
+7. json.load(): untuk membaca file nilai_mahasiswa.json.
    
-8. json.dump(): untuk menulis/menyimpan data permanen
+8. json.dump(): untuk menulis/menyimpan data permanen.
 
 9. input(): untuk menerima apa pun yang diketik di terminal.
   
