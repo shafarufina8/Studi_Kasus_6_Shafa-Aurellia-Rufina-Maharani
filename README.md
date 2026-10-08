@@ -1,6 +1,8 @@
 # Studi_Kasus_6_Shafa-Aurellia-Rufina-Maharani
 
 Nama: Shafa Aurellia Rufina Maharani
+
+
 NIM: 2609116001
 
 
