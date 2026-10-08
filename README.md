@@ -1,0 +1,1 @@
+# Studi_Kasus_6_Shafa-Aurellia-Rufina-Maharani
